@@ -10,12 +10,6 @@ class Sys_ExFileName {
 	const BT3S_JS				= 'plugins/twitter-bootstrap/3.0.0.S/js/bootstrap.min.js';//Ori
 	const BT3S_CSS				= 'plugins/twitter-bootstrap/3.0.0.S/css/bootstrap.min.css';//Ori Bootstrap 3.0.0
 	
-	const BT3_JS				= 'plugins/twitter-bootstrap/3.0.0/js/bootstrap.min.js';//Ori
-	const BT3_CSS				= 'plugins/twitter-bootstrap/3.0.0/css/bootstrap.min.css';//Ori Bootstrap 3.0.0
-	
-	const BT_JS					= 'plugins/twitter-bootstrap/2.3.2/js/bootstrap.min.js';//Ori
-	const BT_CSS				= 'plugins/twitter-bootstrap/2.3.2/css/bootstrap.min.css';//Ori Bootstrap 2.3.2
-	
 	const BT3_1_CSS				= 'plugins/twitter-bootstrap/3.0.0/css/bootstrap1.css';//Compiled Bootstrap 3.0.0 #1
 	const BT3_2_CSS				= 'plugins/twitter-bootstrap/3.0.0/css/bootstrap2.css';//Compiled Bootstrap 3.0.0 #2
 	const BT_1_CSS				= 'plugins/twitter-bootstrap/2.3.2/css/bootstrap1.css';//Compiled Bootstrap 2.3.2 #1
